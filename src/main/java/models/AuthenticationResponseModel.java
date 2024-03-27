@@ -1,0 +1,26 @@
+package models;
+
+public class AuthenticationResponseModel {
+
+    String token;
+
+    public AuthenticationResponseModel username(String token) {
+        this.token = token;
+        return this;
+    }
+    @Override
+    public String toString() {
+        return "AuthenticationRsponseModel{" +
+                "token='" + token + '\'' +
+                '}';
+    }
+
+    public String getToken() {
+        return token;
+    }
+
+    public void setToken(String token) {
+        this.token = token;
+    }
+}
+
