@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="user001">John</entry>
+<entry key="token">eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJST0xFX1VTRVIiXSwic3ViIjoickBpbnhvLnl1am4iLCJpc3MiOiJSZWd1bGFpdCIsImV4cCI6MTcxMjI5NzkzOSwiaWF0IjoxNzExNjk3OTM5fQ._BY5MkUioIWViZ2nzCILMaEvXiX6FEpe7tJ_tdPqcNE</entry>
+</properties>
