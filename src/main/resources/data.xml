@@ -2,5 +2,5 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <entry key="user001">John</entry>
-<entry key="token">eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJST0xFX1VTRVIiXSwic3ViIjoickBpbnhvLnl1am4iLCJpc3MiOiJSZWd1bGFpdCIsImV4cCI6MTcxMjI5NzkzOSwiaWF0IjoxNzExNjk3OTM5fQ._BY5MkUioIWViZ2nzCILMaEvXiX6FEpe7tJ_tdPqcNE</entry>
+<entry key="token">eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJST0xFX1VTRVIiXSwic3ViIjoicEBucHVtLmNxZmsiLCJpc3MiOiJSZWd1bGFpdCIsImV4cCI6MTcxMjY1NzM5MSwiaWF0IjoxNzEyMDU3MzkxfQ.oDL1vM8dxAXr3Ilf2Yx-ZMeCnHn4_c98e7i0DP94ncc</entry>
 </properties>
